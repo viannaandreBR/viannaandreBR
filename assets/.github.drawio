@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="ilRrlwXNNtKoQofEHD4s" name="Página-1">
+        <mxGraphModel dx="1060" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;ol&gt;&lt;li&gt;DevTools&lt;/li&gt;&lt;li&gt;Software Architecture&lt;/li&gt;&lt;li&gt;Software Engineering&lt;/li&gt;&lt;li&gt;Coding&lt;/li&gt;&lt;li&gt;Frontend&lt;/li&gt;&lt;li&gt;Backend&lt;/li&gt;&lt;li&gt;Database&lt;/li&gt;&lt;li&gt;API&lt;/li&gt;&lt;li&gt;DevOps&lt;/li&gt;&lt;li&gt;SecOps&lt;/li&gt;&lt;li&gt;Cloud Computing&lt;/li&gt;&lt;li&gt;Observability&lt;/li&gt;&lt;li&gt;IoT&lt;/li&gt;&lt;li&gt;Data Science &amp;amp; Artificial Inteligence&lt;/li&gt;&lt;li&gt;Blockchain&lt;/li&gt;&lt;li&gt;Quantum Computing&lt;/li&gt;&lt;li&gt;Big Data&lt;/li&gt;&lt;li&gt;DataVis &amp;amp; Analytics&lt;/li&gt;&lt;li&gt;DeFi&lt;/li&gt;&lt;li&gt;NFTs&lt;/li&gt;&lt;li&gt;MetaVerse&lt;/li&gt;&lt;li&gt;Edge Computing&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="50" width="420" height="440" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
