@@ -37,13 +37,13 @@
 
 <h2>Research & Development</h2>
   
-  <a href="https://mydatasciencejourney.ml/how-to-design-and-visualize-a-neural-network-dr-de9d04b2e057" target=”_blank”>
+  <a href="https://medium.com/my-data-science-journey/how-to-design-and-visualize-a-neural-network-dr-de9d04b2e057" target=”_blank”>
    <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/2480/1*8jI3wB41kYxP-Wo5rO_Yvg.gif">
   </a>
 
 - 🔭 I’m currently Entrepreneur on [BioLabs](https://BioInformaticaLabs.com)
 - 👩‍💻 I’m Full Cycle Developer & [Software Engineering](https://medium.com/my-dev-zone)
-- 🌱 I’m currently learning [Data Science](https://mydatasciencejourney.ml/)
+- 🌱 I’m currently learning [Data Science](https://medium.com/my-data-science-journey/)
 - 🚀 I’m looking to [Blockchain & DeFi Projects](https://medium.com/my-blockchain-zone)
 - 📚 Author of the [Vidhya Analytics](https://www.analyticsvidhya.com/blog/author/andre-br/)
 
@@ -107,6 +107,6 @@
 - Twitter: https://twitter.com/AndreVianna_BR
 - My Coding Blog: https://medium.com/my-dev-zone
 - My Blockchain Blog: https://medium.com/my-blockchain-zone
-- My Data Science Blog: https://mydatasciencejourney.ml/
+- My Data Science Blog: https://medium.com/my-data-science-journey/
 - Medium: https://andrevianna-br.medium.com/
 - LinkedIn: https://www.linkedin.com/in/andreviannabrazil/
