@@ -44,7 +44,7 @@
 - 🔭 I’m currently Entrepreneur on [BioLabs](https://BioInformaticaLabs.com)
 - 👩‍💻 I’m Full Cycle Developer & [Software Engineering](https://mydevelopmentzone.ml/)
 - 🌱 I’m currently learning [Data Science](https://mydatasciencejourney.ml/)
-- 🚀 I’m looking to [Blockchain & DeFi Projects](https://blockchain-demo.tk/)
+- 🚀 I’m looking to [Blockchain & DeFi Projects](https://medium.com/my-blockchain-zone)
 - 📚 Author of the [Vidhya Analytics](https://www.analyticsvidhya.com/blog/author/andre-br/)
 
 </div>
@@ -106,7 +106,7 @@
 
 - Twitter: https://twitter.com/AndreVianna_BR
 - My Coding Blog: https://mydevelopmentzone.ml/
-- My Blockchain Blog: https://blockchain-demo.tk/
+- My Blockchain Blog: https://medium.com/my-blockchain-zone
 - My Data Science Blog: https://mydatasciencejourney.ml/
 - Medium: https://andrevianna-br.medium.com/
 - LinkedIn: https://www.linkedin.com/in/andreviannabrazil/
