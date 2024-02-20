@@ -92,9 +92,9 @@
 </a>
 </p>
 
-<a href="https://twitter.com/AndreVianna_BR" target="_blank">
+<!-- <a href="https://twitter.com/AndreVianna_BR" target="_blank">
 <img height="500em" width="900em" src="https://github-readme-twitter-gazf.vercel.app/api?id=AndreVianna_BR&layout=wide&show_reply=off&show_retweet=off" />
-</a>
+</a> -->
 
 <br></br>
 
