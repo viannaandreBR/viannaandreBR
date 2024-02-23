@@ -21,8 +21,8 @@
   <a href="https://github.com/viannaandreBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viannaandreBR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaandreBR&layout=compact&langs_count=15&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaandreBR&langs_count=15&theme=merko"/>
-
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaandreBR&langs_count=15&theme=merko"/>
+</a>
 <!--
 <div style="display: inline_block"><br>
 
